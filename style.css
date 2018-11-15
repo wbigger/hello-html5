@@ -7,6 +7,9 @@
     display:table-row;
 }
 
+.row {
+    display:table-row;
+}
 .cell {
     display:table-cell;
 }

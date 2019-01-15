@@ -1,16 +1,4 @@
-.table {
-    display:table;
-    width: 100%;
-}
-
-.row-header {
-    display:table-row;
-    font-size: x-large;
-}
-
-.row {
-    display:table-row;
-}
-.cell {
-    display:table-cell;
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
 }
